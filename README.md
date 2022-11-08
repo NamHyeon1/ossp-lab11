@@ -9,5 +9,5 @@
 
 This project is....
 
-[234](234)
+[link](https://github.com/NamHyeon1/ossp-lab11)
 
